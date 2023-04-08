@@ -1,0 +1,74 @@
+html { 
+    background: url(/client/Images/bg_img4.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 80vh;
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #CBC3E3;
+  }
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+  }
+.switch-field {
+  display: flex;
+  margin-bottom: 36px;
+  overflow: hidden;
+}
+.switch-field input {
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+.switch-field label {
+  background-color: #cbc3e3c4;
+  color: black;
+  font-size: 14px;
+  line-height: 1;
+  text-align: center;
+  padding: 8px 16px;
+  margin-right: -1px;
+  border: 1px solid rgba(0, 0, 0, 0.2)
+}
+.switch-field label:hover {
+  cursor: pointer;
+}
+.switch-field input:checked + label {
+  background-color: #F535AA;
+  box-shadow: none;
+}
+.switch-field label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}.switch-field label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+.form{
+  max-width: 270px;
+  font-weight: normal;
+  line-height: 1.925;
+}
+.area, .submit, .location, .result {
+  font-family: "Sofia", sans-serif;
+  outline: 0;
+  background: #cbc3e3b0;
+  border-radius: 5px;
+  height: 32px;
+  font-size: 14px;
+  box-sizing: border-box;
+  /* padding: 2px 2px 5px 5px; */
+  margin: 0 0 10px;
+  width: 77%;
+  text-align: center;
+}
+.submit, .result {
+  background: #35f5e246;
+}
