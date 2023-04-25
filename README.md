@@ -43,13 +43,13 @@ To evaluate the performance of our model, we used the `.score` method. We also c
 To create a user-friendly interface for our model, we built a web application using HTML, CSS, and JavaScript for the front-end and Flask for the back-end. Users can input the features of a house, and our model will predict the price.
 
 ## Files and Folders
-- .idea: Contains configuration files for the PyCharm IDE.
-- client: Contains the front-end of our web application, built using HTML, CSS, and JavaScript.
-- Dataset: Contains the dataset we used for training our machine learning model.
-- Model: Contains the Python file that has Data Analysis Process, machine learning model we trained.
-- server: Contains the back-end of our web application, built using Flask.
-- requirement.txt: Contains a list of Python packages required to run our project.
-- readme: Contains information about our project and how to use it.
+- [.idea](https://github.com/aditya345-coder/Bengaluru-House-Price-Prediction/tree/main/.idea): Contains configuration files for the PyCharm IDE.
+- [client](https://github.com/aditya345-coder/Bengaluru-House-Price-Prediction/tree/main/Client): Contains the front-end of our web application, built using HTML, CSS, and JavaScript.
+- [Dataset](https://github.com/aditya345-coder/Bengaluru-House-Price-Prediction/tree/main/Dataset): Contains the dataset we used for training our machine learning model.
+- [Model](https://github.com/aditya345-coder/Bengaluru-House-Price-Prediction/tree/main/Model): Contains the Python file that has Data Analysis Process, machine learning model we trained.
+- [server](https://github.com/aditya345-coder/Bengaluru-House-Price-Prediction/tree/main/Server): Contains the back-end of our web application, built using Flask.
+- [requirement.txt](https://github.com/aditya345-coder/Bengaluru-House-Price-Prediction/blob/main/requirement.txt): Contains a list of Python packages required to run our project.
+- [readme](https://github.com/aditya345-coder/Bengaluru-House-Price-Prediction/blob/main/README.md): Contains information about our project and how to use it.
 
 ## Conclusion
 
