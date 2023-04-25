@@ -11,6 +11,7 @@ This is a group project on predicting house prices in Bengaluru, India using Pyt
 - [Model Building](#model-building)
 - [Model Evaluation](#model-evaluation)
 - [Web Application](#web-application)
+- [Files and Folders](#Files-and-Folders)
 - [Conclusion](#conclusion)
 
 ## Introduction
