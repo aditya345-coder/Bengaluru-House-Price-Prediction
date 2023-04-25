@@ -41,6 +41,15 @@ To evaluate the performance of our model, we used the `.score` method. We also c
 
 To create a user-friendly interface for our model, we built a web application using HTML, CSS, and JavaScript for the front-end and Flask for the back-end. Users can input the features of a house, and our model will predict the price.
 
+## Files and Folders
+- .idea: Contains configuration files for the PyCharm IDE.
+- client: Contains the front-end of our web application, built using HTML, CSS, and JavaScript.
+- Dataset: Contains the dataset we used for training our machine learning model.
+- Model: Contains the Python file that has Data Analysis Process, machine learning model we trained.
+- server: Contains the back-end of our web application, built using Flask.
+- requirement.txt: Contains a list of Python packages required to run our project.
+- readme: Contains information about our project and how to use it.
+
 ## Conclusion
 
 In conclusion, we were able to build a machine learning model that can accurately predict house prices in Bengaluru. We used several algorithms to train our model and found that Linear Regression gave the best accuracy. We also created a web application to make our model accessible to users. We took reference for this project from this playlist: [YouTube](https://youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg).
