@@ -68,5 +68,5 @@ Now you can open the same main folder(i.e Benguluru-House-Price-Pridiction folde
 ![Screenshot (205)](https://github.com/karti3k/tournament-style-guide-html-css-webpage/assets/97697722/452e322b-68da-4895-b658-ada771b25c4d)
 
 ## Finally:
-You can choose the enter the square feet you want for your house and then can select the number of bhk and bathroom and finally can select your favourite location. On clicking the Estimate Price button, The estimated price for your house will be infront of your eyes.
+You can enter the square feet you want for your house and then can select the number of bhk and bathroom and finally can select your favourite location. On clicking the Estimate Price button, The estimated price for your house will be infront of your eyes.
 ![Screenshot (206)](https://github.com/karti3k/tournament-style-guide-html-css-webpage/assets/97697722/0fb4e205-0248-47eb-b6b4-554e81978b2f)
