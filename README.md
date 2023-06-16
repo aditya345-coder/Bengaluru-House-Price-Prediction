@@ -54,3 +54,19 @@ To create a user-friendly interface for our model, we built a web application us
 ## Conclusion
 
 In conclusion, we were able to build a machine learning model that can accurately predict house prices in Bengaluru. We used several algorithms to train our model and found that Linear Regression gave the best accuracy. We also created a web application to make our model accessible to users. We took reference for this project from this playlist: [YouTube](https://youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg).
+
+## Screenshots:
+## Step1-
+In order to test this project on your local pc, first open the main folder in pycharm, in the terminal of it enter command `cd Server` so as to go inside the Server. Now run the server.py by entering the following command `python server.py`. Now the server will start. *NOTE:* Do not close pycharm, but you can minimize it.
+![Screenshot (207)](https://github.com/karti3k/tournament-style-guide-html-css-webpage/assets/97697722/7e456a6c-ca8d-4fab-a6c8-b337414d3ba9)
+
+## Step2- 
+Now you can open the same main folder(i.e Benguluru-House-Price-Pridiction folder) that you opened it using pycharm, this time using vs code editor. When you vs code editor opens, you meed to navigatge to the Client folder, from there you need to open html css and js file in different tabs as shown in the screenshot below. And if you have the live server extension installed then you need to click on go live as shown (but note among the 3 tabs opened for html, css and js file: you html tab must be clicked, then click on go live button.
+![Screenshot (210)](https://github.com/karti3k/tournament-style-guide-html-css-webpage/assets/97697722/3d03fceb-4025-4cf1-83bd-1514930f0608)
+
+## It will be displayed as the screenshot below:
+![Screenshot (205)](https://github.com/karti3k/tournament-style-guide-html-css-webpage/assets/97697722/452e322b-68da-4895-b658-ada771b25c4d)
+
+## Finally:
+You can choose the enter the square feet you want for your house and then can select the number of bhk and bathroom and finally can select your favourite location. On clicking the Estimate Price button, The estimated price for your house will be infront of your eyes.
+![Screenshot (206)](https://github.com/karti3k/tournament-style-guide-html-css-webpage/assets/97697722/0fb4e205-0248-47eb-b6b4-554e81978b2f)
